@@ -198,7 +198,23 @@ area.innerHTML = '';
 lista.forEach(produto=>{
 
 area.innerHTML += `
-<div class="card">
+<div class="card" style="position:relative;">
+
+${produto.vendido ? `
+<div style="
+position:absolute;
+top:15px;
+right:15px;
+background:red;
+color:white;
+padding:8px 12px;
+border-radius:8px;
+font-weight:bold;
+z-index:2;
+">
+VENDIDO
+</div>
+` : ''}
 
 <img src="${produto.imagem}">
 
@@ -206,7 +222,17 @@ area.innerHTML += `
 
 <h3>${produto.nome}</h3>
 
-<p><strong>Categoria:</strong> ${produto.categoria}</p>
+<p style="
+display:inline-block;
+background:#d4af37;
+color:black;
+padding:4px 10px;
+border-radius:20px;
+font-weight:bold;
+margin-bottom:10px;
+">
+${produto.categoria}
+</p>
 
 <p><strong>Tamanho:</strong> ${produto.tamanho}</p>
 
