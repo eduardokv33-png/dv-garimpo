@@ -21,14 +21,15 @@
     "imagem": "3.jpg"
   },
   {
-    "nome": "Bolsa Feminina",
+    "nome": "Bolsa Mamãe & Bebê - Natura",
     "categoria": "Feminino",
     "tamanho": "Único",
     "preco": "R$ 40",
     "imagem": "4.jpg"
+    "novo": true
   },
   {
-    "nome": "Regata Brasil",
+    "nome": "Camiseta do BRASIL",
     "categoria": "Feminino",
     "tamanho": "P",
     "preco": "R$ 25",
@@ -78,7 +79,7 @@
   },
   {
     "nome": "Calça Jogger",
-    "categoria": "Feminino",
+    "categoria": "Masculino",
     "tamanho": "46",
     "preco": "R$ 40",
     "imagem": "12.jpg"
