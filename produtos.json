@@ -1,0 +1,142 @@
+[
+  {
+    "nome": "Saia Xadrez Vichy",
+    "categoria": "Feminino",
+    "tamanho": "M",
+    "preco": "R$ 30",
+    "imagem": "imagens/1.jpg"
+  },
+  {
+    "nome": "Calça Feminina",
+    "categoria": "Feminino",
+    "tamanho": "48",
+    "preco": "R$ 35",
+    "imagem": "imagens/2.jpg"
+  },
+  {
+    "nome": "Blusa Feminina",
+    "categoria": "Feminino",
+    "tamanho": "M",
+    "preco": "R$ 35",
+    "imagem": "imagens/3.jpg"
+  },
+  {
+    "nome": "Bolsa Feminina",
+    "categoria": "Feminino",
+    "tamanho": "Único",
+    "preco": "R$ 40",
+    "imagem": "imagens/4.jpg"
+  },
+  {
+    "nome": "Regata Brasil",
+    "categoria": "Feminino",
+    "tamanho": "P",
+    "preco": "R$ 25",
+    "imagem": "imagens/5.jpg"
+  },
+  {
+    "nome": "Body Rosa",
+    "categoria": "Feminino",
+    "tamanho": "M",
+    "preco": "R$ 25",
+    "imagem": "imagens/6.jpg"
+  },
+  {
+    "nome": "Calça Jeans",
+    "categoria": "Feminino",
+    "tamanho": "46",
+    "preco": "R$ 40",
+    "imagem": "imagens/7.jpg"
+  },
+  {
+    "nome": "Bota Preta",
+    "categoria": "Feminino",
+    "tamanho": "36",
+    "preco": "R$ 45",
+    "imagem": "imagens/8.jpg"
+  },
+  {
+    "nome": "Short Feminino",
+    "categoria": "Feminino",
+    "tamanho": "M",
+    "preco": "R$ 30",
+    "imagem": "imagens/9.jpg"
+  },
+  {
+    "nome": "Calça Feminina",
+    "categoria": "Feminino",
+    "tamanho": "46",
+    "preco": "R$ 40",
+    "imagem": "imagens/10.jpg"
+  },
+  {
+    "nome": "Colete Feminino",
+    "categoria": "Feminino",
+    "tamanho": "M",
+    "preco": "R$ 40",
+    "imagem": "imagens/11.jpg"
+  },
+  {
+    "nome": "Calça Jogger",
+    "categoria": "Feminino",
+    "tamanho": "46",
+    "preco": "R$ 40",
+    "imagem": "imagens/12.jpg"
+  },
+  {
+    "nome": "Colete Matelassê",
+    "categoria": "Feminino",
+    "tamanho": "M",
+    "preco": "R$ 40",
+    "imagem": "imagens/13.jpg"
+  },
+  {
+    "nome": "Camisa Social Feminina",
+    "categoria": "Feminino",
+    "tamanho": "M",
+    "preco": "R$ 35",
+    "imagem": "imagens/14.jpg"
+  },
+  {
+    "nome": "Vestido Xadrez",
+    "categoria": "Feminino",
+    "tamanho": "M",
+    "preco": "R$ 45",
+    "imagem": "imagens/15.jpg"
+  },
+  {
+    "nome": "Vestido Rosa",
+    "categoria": "Feminino",
+    "tamanho": "M",
+    "preco": "R$ 45",
+    "imagem": "imagens/16.jpg"
+  },
+  {
+    "nome": "Camisa Azul",
+    "categoria": "Masculino",
+    "tamanho": "G",
+    "preco": "R$ 35",
+    "imagem": "imagens/17.jpg"
+  },
+  {
+    "nome": "Calça Feminina",
+    "categoria": "Feminino",
+    "tamanho": "48",
+    "preco": "R$ 35",
+    "imagem": "imagens/18.jpg"
+  },
+  {
+    "nome": "Calça Jeans",
+    "categoria": "Feminino",
+    "tamanho": "48",
+    "preco": "R$ 35",
+    "imagem": "imagens/19.jpg"
+  },
+  {
+    "nome": "Mule Anacapri",
+    "categoria": "Feminino",
+    "tamanho": "36",
+    "preco": "R$ 70",
+    "imagem": "imagens/20.jpg"
+  }
+]
