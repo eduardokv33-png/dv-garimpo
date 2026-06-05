@@ -4,139 +4,139 @@
     "categoria": "Feminino",
     "tamanho": "M",
     "preco": "R$ 30",
-    "imagem": "imagens/1.jpg"
+    "imagem": "1.jpg"
   },
   {
     "nome": "Calça Feminina",
     "categoria": "Feminino",
     "tamanho": "48",
     "preco": "R$ 35",
-    "imagem": "imagens/2.jpg"
+    "imagem": "2.jpg"
   },
   {
     "nome": "Blusa Feminina",
     "categoria": "Feminino",
     "tamanho": "M",
     "preco": "R$ 35",
-    "imagem": "imagens/3.jpg"
+    "imagem": "3.jpg"
   },
   {
     "nome": "Bolsa Feminina",
     "categoria": "Feminino",
     "tamanho": "Único",
     "preco": "R$ 40",
-    "imagem": "imagens/4.jpg"
+    "imagem": "4.jpg"
   },
   {
     "nome": "Regata Brasil",
     "categoria": "Feminino",
     "tamanho": "P",
     "preco": "R$ 25",
-    "imagem": "imagens/5.jpg"
+    "imagem": "5.jpg"
   },
   {
     "nome": "Body Rosa",
     "categoria": "Feminino",
     "tamanho": "M",
     "preco": "R$ 25",
-    "imagem": "imagens/6.jpg"
+    "imagem": "6.jpg"
   },
   {
     "nome": "Calça Jeans",
     "categoria": "Feminino",
     "tamanho": "46",
     "preco": "R$ 40",
-    "imagem": "imagens/7.jpg"
+    "imagem": "7.jpg"
   },
   {
     "nome": "Bota Preta",
     "categoria": "Feminino",
     "tamanho": "36",
     "preco": "R$ 45",
-    "imagem": "imagens/8.jpg"
+    "imagem": "8.jpg"
   },
   {
     "nome": "Short Feminino",
     "categoria": "Feminino",
     "tamanho": "M",
     "preco": "R$ 30",
-    "imagem": "imagens/9.jpg"
+    "imagem": "9.jpg"
   },
   {
     "nome": "Calça Feminina",
     "categoria": "Feminino",
     "tamanho": "46",
     "preco": "R$ 40",
-    "imagem": "imagens/10.jpg"
+    "imagem": "10.jpg"
   },
   {
     "nome": "Colete Feminino",
     "categoria": "Feminino",
     "tamanho": "M",
     "preco": "R$ 40",
-    "imagem": "imagens/11.jpg"
+    "imagem": "11.jpg"
   },
   {
     "nome": "Calça Jogger",
     "categoria": "Feminino",
     "tamanho": "46",
     "preco": "R$ 40",
-    "imagem": "imagens/12.jpg"
+    "imagem": "12.jpg"
   },
   {
     "nome": "Colete Matelassê",
     "categoria": "Feminino",
     "tamanho": "M",
     "preco": "R$ 40",
-    "imagem": "imagens/13.jpg"
+    "imagem": "13.jpg"
   },
   {
     "nome": "Camisa Social Feminina",
     "categoria": "Feminino",
     "tamanho": "M",
     "preco": "R$ 35",
-    "imagem": "imagens/14.jpg"
+    "imagem": "14.jpg"
   },
   {
     "nome": "Vestido Xadrez",
     "categoria": "Feminino",
     "tamanho": "M",
     "preco": "R$ 45",
-    "imagem": "imagens/15.jpg"
+    "imagem": "15.jpg"
   },
   {
     "nome": "Vestido Rosa",
     "categoria": "Feminino",
     "tamanho": "M",
     "preco": "R$ 45",
-    "imagem": "imagens/16.jpg"
+    "imagem": "16.jpg"
   },
   {
     "nome": "Camisa Azul",
     "categoria": "Masculino",
     "tamanho": "G",
     "preco": "R$ 35",
-    "imagem": "imagens/17.jpg"
+    "imagem": "17.jpg"
   },
   {
     "nome": "Calça Feminina",
     "categoria": "Feminino",
     "tamanho": "48",
     "preco": "R$ 35",
-    "imagem": "imagens/18.jpg"
+    "imagem": "18.jpg"
   },
   {
     "nome": "Calça Jeans",
     "categoria": "Feminino",
     "tamanho": "48",
     "preco": "R$ 35",
-    "imagem": "imagens/19.jpg"
+    "imagem": "19.jpg"
   },
   {
     "nome": "Mule Anacapri",
     "categoria": "Feminino",
     "tamanho": "36",
     "preco": "R$ 70",
-    "imagem": "imagens/20.jpg"
+    "imagem": "20.jpg"
   }
 ]
